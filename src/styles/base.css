@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+body {
+    font-size: 14px;
+    background-color: #f7f7f7;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
